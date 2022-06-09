@@ -1,2 +1,20 @@
 # cadastro-metas-ADVPL
-Cadastro de metas/Vendedores para Recepção e Showroom 
+Cadastro de metas/Vendedores para Recepção e Showroom criado para complementar o relatório de comissões.
+
+
+### Screenshots
+
+![Tela 1 Grid de Metas por Ano/Mês](https://github.com/tunaiximenes/cadastro-metas-ADVPL/blob/master/Resources/1.png)
+
+![Tela 2 Inclusão de Metas no Sistema](https://github.com/tunaiximenes/cadastro-metas-ADVPL/blob/master/Resources/Screenshot_1.png)
+
+![Tela 3 Editando as Metas já cadastradas e distribuindo para os Vendedores](https://github.com/tunaiximenes/cadastro-metas-ADVPL/blob/master/Resources/Screenshot_2.png)
+
+#### Instalação
+Para utilizar o fonte basta compilar no seu RPO, Inserir a função no MENU do Protheus como Função de Usuário CRL600.
+
+```
+> git clone https://github.com/tunaiximenes/cadastro-metas-ADVPL.git metasVendedoresADVPL
+> cd metasVendedoresADVPL
+
+```
