@@ -2,7 +2,7 @@
 #Include "Rwmake.ch"
 #Include "TOPCONN.ch"  
 
-User Function CRL600()            
+User Function TXM600()            
 
   Private cCadastro := "Cadastro de Metas ShowRoom / Recepcionistas" 
   Private aRotina   := MenuDef()    
@@ -47,7 +47,7 @@ Private lZZ5Altera := .F.
 
 Private aHeader := {}
 Private aCols   := {}       
-Private cPerg   := "CRL600"             
+Private cPerg   := "TXM600"             
 
  
   If !pergunte(cPerg,.T.)
